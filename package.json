@@ -1,5 +1,5 @@
 {
-  "version": "13.40.54ea79",
+  "version": "13.40.d5a654",
   "files": [
     {
       "url": "bin/Qt5Network.dll.lzma",
@@ -68,10 +68,10 @@
     {
       "url": "bin/client.en.qm.lzma",
       "localfile": "bin/client.en.qm",
-      "packedhash": "07afbdc587e3f9c45f43d89432e24bb248be33780cf9e63b659895b588c57e67",
-      "packedsize": 115758,
-      "unpackedhash": "395f5a694bb15071cad4d8483d859200e242a0cdbdfc0e2f82e96a13f7421b35",
-      "unpackedsize": 627039
+      "packedhash": "e86d3f3b24fabf49eafd5764a1633104ee90db199d2693cefd079f4bf70095c7",
+      "packedsize": 115780,
+      "unpackedhash": "418b1a08bd449cb75b84cff986f50782e7cdac83e14d67a4a0d59e2d21421286",
+      "unpackedsize": 627134
     },
     {
       "url": "bin/Qt5QmlModels.dll.lzma",
@@ -148,10 +148,10 @@
     {
       "url": "bin/client.exe.lzma",
       "localfile": "bin/client.exe",
-      "packedhash": "5e1f70538e08c8ca58b0cf5043f4fc00394a1bfc6abe85229167e676d4f702e4",
-      "packedsize": 4631204,
-      "unpackedhash": "baf0e01c8c05601ca4ae487e8cb82457628da0b5acaf7fdbc7652052a31f50fe",
-      "unpackedsize": 20765592
+      "packedhash": "df71737e9835f018e3725a10dd540edcf63a18d3e540606ffbe74527ea84a9e6",
+      "packedsize": 4631854,
+      "unpackedhash": "14d51a6c2973d0f13081c900528d7538f5f17d5b769335e460e786354484adf6",
+      "unpackedsize": 20768144
     },
     {
       "url": "bin/client_launcher.exe.lzma",
@@ -165,10 +165,10 @@
     {
       "url": "bin/OpenAL32.dll.lzma",
       "localfile": "bin/OpenAL32.dll",
-      "packedhash": "f82570f1c2ab2e32756ecf58847f6fa814f77906e587daf5fdd24d2ddbdb0c22",
-      "packedsize": 568125,
-      "unpackedhash": "e8cad967bcf37e0c6bc0156b3fe1842ad6477c2bc31948aea9b0aaefe48ae04d",
-      "unpackedsize": 1901456
+      "packedhash": "af992a6eb26c3478153b1a041f95e8de8c212271d76a820540da137cc78f7648",
+      "packedsize": 568272,
+      "unpackedhash": "f1570f784fc8ea66a134ed3b56ac1e335f08d258ec3d2701a87ce76a866da401",
+      "unpackedsize": 1901464
     },
     {
       "url": "bin/Qt5Quick.dll.lzma",
