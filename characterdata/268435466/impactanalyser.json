@@ -1,0 +1,12 @@
+{
+    "desiredDamageTypesVisible": true,
+    "desiredDpsGaugeVisible": true,
+    "desiredDpsGraphVisible": true,
+    "desiredHpsGaugeVisible": true,
+    "desiredHpsGraphVisible": true,
+    "dpsGaugeTargetValue": 0.1,
+    "hpsGaugeTargetValue": 0.1,
+    "maxDamageImpact": 1259946,
+    "maxHealingImpact": 3351,
+    "showSessionValues": false
+}
