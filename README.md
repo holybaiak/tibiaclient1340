@@ -1,2 +1,2 @@
-# tibiaclient1340
+# Tibia Client 13.40
 Holy Baiak - Tibia Cliente
