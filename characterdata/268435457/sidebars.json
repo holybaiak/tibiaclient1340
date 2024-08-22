@@ -51,6 +51,10 @@
         "sortOrder": "ascending"
     },
     "containersOptions": {
+        "0": {
+            "contentHeight": 195,
+            "contentMaximized": true
+        },
         "1": {
             "contentHeight": 195,
             "contentMaximized": true

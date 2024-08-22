@@ -1,5 +1,5 @@
 {
-  "version": "13.40.93b0a1",
+  "version": "13.40.e15431",
   "files": [
     {
       "url": "bin/Qt5Network.dll.lzma",
@@ -148,10 +148,10 @@
     {
       "url": "bin/client.exe.lzma",
       "localfile": "bin/client.exe",
-      "packedhash": "9af9615d6dd33dbaff9883b75f42d5466f0506ed7092691e449274708e72eb08",
-      "packedsize": 4630758,
-      "unpackedhash": "7d0fb8c28000577c215d42e93ac86a5168a12a107e7d7e7ac8ebb02f17b91124",
-      "unpackedsize": 20768152
+      "packedhash": "c612ce4270d67a536daf0008c4a19c29e50b4f77b9d53178f91127d0970b3c6c",
+      "packedsize": 4631151,
+      "unpackedhash": "dbdacf1f67bb67cdd732b173b1c73d5117618d2e1dd34638de5ef2dfe89beb32",
+      "unpackedsize": 20769176
     },
     {
       "url": "bin/client_launcher.exe.lzma",
@@ -165,10 +165,10 @@
     {
       "url": "bin/OpenAL32.dll.lzma",
       "localfile": "bin/OpenAL32.dll",
-      "packedhash": "44f19498f9f297f595494d5e41c5c984448ce49b20f5b8624e39d2b55c71dfca",
-      "packedsize": 568405,
-      "unpackedhash": "dcdfa03bcb3b70609cd76f0a88d44d838f3b0ee443e1244a0922eed64d46ef7e",
-      "unpackedsize": 1901464
+      "packedhash": "453b4afb4dd6238249b2c1302194356533e766e75adaf028bbaafd8cd6976940",
+      "packedsize": 568540,
+      "unpackedhash": "38fcfb23b6cba0915f0cd20a5c86095104819a9fc354f09cc629ca0ecb3eaa01",
+      "unpackedsize": 1901456
     },
     {
       "url": "bin/Qt5Quick.dll.lzma",
